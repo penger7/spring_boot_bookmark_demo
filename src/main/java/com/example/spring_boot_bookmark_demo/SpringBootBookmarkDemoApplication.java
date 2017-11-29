@@ -12,7 +12,5 @@ public class SpringBootBookmarkDemoApplication {
 		SpringApplication.run(SpringBootBookmarkDemoApplication.class, args);
 	}
 
-	public void say(){
-		System.out.println("hello");
-	}
+
 }
